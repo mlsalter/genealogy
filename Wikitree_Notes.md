@@ -14,21 +14,18 @@
 
 
 ## Project lists:
-  [United States](https://www.wikitree.com/wiki/Project:United_States#Sub-Projects)
-    ### Sub-Projects
-    * [Appalachia](https://www.wikitree.com/wiki/Project:Appalachia)
-    * [Southern Colonies](https://www.wikitree.com/wiki/Project:US_Southern_Colonies) pre-1776
-    * [1776 Project](https://www.wikitree.com/wiki/Project:1776)
- 
-    #### States
+  1. [United States](https://www.wikitree.com/wiki/Project:United_States#Sub-Projects)
+  2. [Appalachia](https://www.wikitree.com/wiki/Project:Appalachia)
+  3. [Southern Colonies](https://www.wikitree.com/wiki/Project:US_Southern_Colonies) pre-1776
+  4. [1776 Project](https://www.wikitree.com/wiki/Project:1776)
+   ### State Projects
+  5. [North Carolina](https://www.wikitree.com/wiki/Project:North_Carolina)
+  6. [Virginia](https://www.wikitree.com/wiki/Project:Virginia)
+  7. [Tennessee](https://www.wikitree.com/wiki/Project:Tennessee)
+  8. [South Carolina](https://www.wikitree.com/wiki/Project:South_Carolina)
+  9. [Maryland](https://www.wikitree.com/wiki/Project:Maryland)
+  10. [Texas](https://www.wikitree.com/wiki/Project:Texas), [Alabama](https://www.wikitree.com/wiki/Space:Alabama_Roots), [Georgia](https://www.wikitree.com/wiki/Project:Georgia), [Kentucky](https://www.wikitree.com/wiki/Project:Kentucky), [Oklahoma](https://www.wikitree.com/wiki/Project:Oklahoma), [West Virginia](https://www.wikitree.com/wiki/Project:West_Virginia), [Arkansas](https://www.wikitree.com/wiki/Project:Arkansas)
     
-    * [North Carolina](https://www.wikitree.com/wiki/Project:North_Carolina)
-    * [Virginia](https://www.wikitree.com/wiki/Project:Virginia)
-    * [Tennessee](https://www.wikitree.com/wiki/Project:Tennessee)
-    * [South Carolina](https://www.wikitree.com/wiki/Project:South_Carolina)
-    * [Maryland](https://www.wikitree.com/wiki/Project:Maryland)
-    * [Texas](https://www.wikitree.com/wiki/Project:Texas), [Alabama](https://www.wikitree.com/wiki/Space:Alabama_Roots), [Georgia](https://www.wikitree.com/wiki/Project:Georgia), [Kentucky](https://www.wikitree.com/wiki/Project:Kentucky), [Oklahoma](https://www.wikitree.com/wiki/Project:Oklahoma), [West Virginia](https://www.wikitree.com/wiki/Project:West_Virginia), [Arkansas](https://www.wikitree.com/wiki/Project:Arkansas)
-    
-  [Scotland](https://www.wikitree.com/wiki/Project:Scotland)
-  [Huguenot Migration](https://www.wikitree.com/wiki/Help:Projects#Huguenot_Migration)
+  11. [Scotland](https://www.wikitree.com/wiki/Project:Scotland)
+  12. [Huguenot Migration](https://www.wikitree.com/wiki/Help:Projects#Huguenot_Migration)
   
