@@ -82,15 +82,50 @@ https://www.wikitree.com/wiki/Help:Biographies
      Mission & Goals:
      * Goals
     4. Appalachia
-     Mission & Goals:
-     * Goals
-    5. Southern Colonies
-     Mission & Goals:
-     * Goals
+        {{Appalachian Roots}}... ... ... has Appalachian roots.
+        {{Appalachian Roots|state=West Virginia}}... ... ... has Appalachian roots, in West Virginia.
+        {{Appalachian Roots|state=VA-WV}}... ... ... has Appalachian roots, in Virginia (now West Virginia).
+        {{Appalachia Sticker |1 native |state = |app-cat = |app-cat1 = |living = |project = |needs = |needs1 = |needs2 = }}
+            1 native = born, lived
+            state = Alabama, Georgia, Kentucky, Maryland, Mississippi, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Virginia, West Virginia, To add "(now xx)" text, use VA-WVA-WV, VA-KY, KY-WV
+            app-cat or app-cat1 = Alabama, Georgia, Kentucky, Maryland, Mississippi, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Virginia, West Virginia
+            living = yes (only if living)
+            project = yes (?)
+            needs or needs1 or needs2 = Biography, Research, Sources
+        {{Appalachia Sticker}}... ... ... was an Appalachian
+        {{Appalachia Sticker |living=yes |project=yes}}.... ... ... is an Appalachian.
+        {{Appalachia Sticker|born|state=West Virginia}}.... ... ... was born in Appalachia, in West Virginia.
+        {{Appalachia Sticker|lived|living=yes}}... ... ... lives in Appalachia
+        {{Appalachia Sticker|lived |state=VA-WV |app-cat=Virginia|app-cat1=West Virginia}}.... ... ... lived in Appalachia, in Virginia (now West Virginia).
+        
+state	Optional	Text	Adds the state to the text for the born and lived options . See Space: Counties of Appalachia for which counties are considered to be in Appalachia. To add "(now xx)" text, use VA-WV, VA-KY, or KY-WV	Alabama	VA-WV, VA-KY, KY-WV, Alabama, Georgia, Kentucky, Maryland, Mississippi, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Virginia, West Virginia
+        
+        
+    5. US Southern Colonies
+        {{US Southern Colonist Sticker|colony}}     colony = Virginia, Jamestown, Maryland, Carolina, North Carolina, South Carolina, Georgia
+        {{US Southern Colonist Sticker|Carolina}} (to 1712)... ... ... was a Carolina colonist.
+        {{US Southern Colonist Sticker|Georgia}}... ... ... was a Georgia colonist.
+        {{US Southern Colonist Sticker|Maryland}}... ... ... was a Maryland colonist.
+        {{US Southern Colonist Sticker|North Carolina}} (1712-1776)... ... ... was a North Carolina colonist.
+        {{US Southern Colonist Sticker|South Carolina}} (1712-1776)... ... ... was a South Carolina colonist.
+        {{US Southern Colonist Sticker|Virginia}} (generally, 1625-1776) ... ... ... was a Virginia colonist.
+        {{US Southern Colonist Sticker|Jamestown}} (1606-1625)... ... ... was a Jamestown colonist.   
+               |needs = Biography, Extensive Work, Location Research, Merge Attention, Project Attention, Ref Tags, Relationship Review, Research, Sources, Style Review    (also needs1 , needs2)           
     6. 1776 Project
-     Mission & Goals:
-     * Goals
-    7. North Carolina
+        {{1776 Sticker Do not change this.
+        |image= Here you can change the default image to an alternative image.
+        |rank= Enter the rank (Ex. Sergeant) here. Please do not use abbreviations like Sgt.
+        |unit= Select the unit from the category page of existing units; if the unit named category does not already exist, please follow the categorization guidelines for creating it or ask for help. Please do not use abbreviations and no unit smaller than Regiment/Brigade. If Regiment or Brigade is not known, use a higher unit that you do know. https://www.wikitree.com/wiki/Category:American_Revolution Also: Patriotic Service,Civil Service,Loyalist,United Empire,Founding Father
+        }}
+        {{1776 Sticker}}... ... ... ... served with {{{unit}}} during the American Revolution.
+        {{1776 Sticker|unit=Pittsylvania County Militia, Virginia Militia, American Revolution}}... ... ... ... served with Pittsylvania County Militia, Virginia Militia during the American Revolution.
+        {{1776 Sticker|unit=King's County Regiment, Rhode Island Militia, American Revolution|rank=Sergeant}}Sergeant ... ... ... served with King's County Regiment, Rhode Island Militia during the American Revolution.
+        {{1776 Sticker|unit=Patriotic Service}}... ... ... ... performed Patriotic Service in the American Revolution.
+    7. DAR/SAR
+            {{DAR-grs|Axxxxx|Patriot’s Name|Date the record was accessed}}
+            {{DAR-grs|Axxxxx|Patriot’s Name|Date the record was accessed}} Note: add note here.
+            {{NSSAR Patriot Ancestor|sar-number = P-xxxxxx |rank = Sergeant}} 
+    8. North Carolina
           {{North Carolina Sticker}}... ... ... was born in North Carolina.
           {{North Carolina Sticker|living=y}} North Carolina Flag... ... ... was born in North Carolina.
           Flag - US_State_Flag_Images-66.png
@@ -116,6 +151,7 @@ https://www.wikitree.com/wiki/Help:Biographies
        * Maryland 
             {{Maryland Sticker}}... ... ... was a Marylander.
             {{Maryland Sticker|living=y}}... ... ... is a Marylander.
+            {{Maryland Sticker|an early settler in Maryland}}... ... ... was an early settler in Maryland.
             Flag - 	US_State_Flag_Images-23.png
        * Oklahoma 
             {{Oklahoma Sticker}}... ... ... was an Oklahoman. 
@@ -124,6 +160,7 @@ https://www.wikitree.com/wiki/Help:Biographies
        * South Carolina 
             {{South Carolina Sticker}}... ... ... was a South Carolinian.
             {{South Carolina Sticker|living=y}}... ... ... is a South Carolinian.
+            {{South Carolina Sticker|a settler in colonial South Carolina}}... ... ... was a settler in colonial South Carolina.
             Flag - US_State_Flag_Images-44.png
        * Tennessee 
             {{Tennessee Sticker}}... ... ... was a Tennessean.
@@ -159,6 +196,27 @@ https://www.wikitree.com/wiki/Help:Biographies
         
         {{Migrating Ancestor|destination= Canada|destination-flag= Flags-1.png}}	
           Flag of an unknown location... ... ... migrated from an unknown location to Canada.
+          
+          Nonmigrating Ancestor Sticker
+Logo for colonial South Carolina
+... ... ... was born in the Province of South Carolina.
+Template:Nonmigrating Ancestor has additional information and examples. See above for help finding images.
+
+{{Nonmigrating Ancestor
+|addinfo={{Name}} was born in the Province of South Carolina.
+|flag= US_Southern_Colonies_British_South_Carolina.jpg
+|tooltip=Logo for colonial South Carolina
+}}
+
+USA's flag at the time
+... ... ... left Georgia to settle in Mississippi in 1801.
+You can use this sticker even for migrating ancestors. For example, if you want just one flag or more flexibility with the sticker's text.
+
+{{Nonmigrating Ancestor
+|addinfo={{Name}} left Georgia to settle in Mississippi in 1801.
+|flag= US_Flags-3.png
+|tooltip=USA's flag at the time
+}}
         * Flags
            + England - Flags-8.jpg
            + France 1794 - European_Flags-46.png 
