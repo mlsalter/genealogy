@@ -32,8 +32,15 @@ Mission & Goals:
      Mission & Goals:
      * Goals
   4. [Appalachia](https://www.wikitree.com/wiki/Project:Appalachia) 
-     Mission & Goals:
+     Mission & Goals: 
+     The primary goal of the Appalachia Project is to work collaboratively on WikiTree profiles of Appalachian people with proper sourcing, detailed biographies and appropriate categories.
      * Goals
+     * Add (or enhance existing) Profiles, Write, Source and Connect.
+     * Add Appalachian-related profiles, checking for existing profiles to avoid duplication. If any duplicate profiles exist, request merges.
+     * Clean up GEDCOM residue and fix broken links. For example: The DeCoursey gedcom and the Howe(1) gedcom have a tremendous amount of work needed.
+     * Write comprehensive, well-sourced biographies.
+     * Add any relevant categories to Appalachian profiles.
+     * Connect Profiles to the WikiTree tree.
   5. [Southern Colonies](https://www.wikitree.com/wiki/Project:US_Southern_Colonies) pre-1776
      Mission & Goals:
      * Goals
