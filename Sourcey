@@ -1,1 +1,104 @@
+There are two ways to add your sources.
+
+List them at the bottom
+Near the bottom of the text of every profile (when viewed in Edit mode) there should be a section like this:
+
+== Sources ==
+<references />
+See also:
+* "US Census, 1900", database online. Home Township, Small Town, Washington, USA; pg. 100, family 10, dwelling 15, lines 150-157; June 1, 1900; National Archives Microfilm M-10, Roll 100.
+Add your source here. The asterisk (*) creates a bibliography-style bulleted list item.
+
+Embed them as references (footnotes)
+As you become more experienced and start to collaborate with other WikiTreers you will need to learn how to create references, i.e. footnotes, endnotes, or citations.
+
+After stating a fact for which you have a source, surround the reference with these tags:
+
+<ref>  ...  </ref>
+This button on the edit toolbar will automatically create them: cite-source.png
+
+References will automatically appear in place of the <references /> tag, which should be directly below the == Sources == headline.
+
+Here's an example:
+
+Some even say that "genealogy without sources is mythology".<ref>Lorine McGinnis Schulze,"[http://www.olivetreegenealogy.com/articles/myth.shtml Genealogy without Sources is Mythology]," article on Olivetree.</ref>
+You can see the footnote this produces at the bottom of this page.
+
+Click here for an example on a profile's edit page.
+
+See the Sources Style Guide if you need more info on the technical elements or styling of the Sources section.
+
+Examples
+The ideal citation format on WikiTree is Chicago Manual of Style (CMoS), generally following Elizabeth Shown Mills' Evidence Explained.[2] But don't get hung up on this. The important thing is citing the source, not how it's done.
+
+Fundamentally, a good source citation enables others to:
+
+judge the accuracy of the information found on the profile, and
+independently verify the information by finding the source themselves.
+You could use the Citation Machine to format sources.
+
+Book
+Anderson, Robert Charles. The Great Migration Begins: Immigrants to New England 1620-1633. Boston, MA: NEHGS, 1995. Volume I, pp 126-130.
+Periodical
+Schmoe, Joe. "Schmoe Origins in Eastern Europe." Eastern European Genealogy, April 1911, pp 3-8. [[Example-6|John Example]] has a copy of it and will scan the pages on request.
+For newspaper and magazine articles be sure to include the title of the article as well as the title of the publication. Publishers are only necessary if the issue might not be easy to locate.
+
+If it's a rare book or periodical you might also include where it can be found, such as in the collection of a certain person or library.
+
+Census
+"US Census, 1900", database online. Home Township, Small Town, Washington, USA; pg. 100, family 10, dwelling 15, lines 150-157; June 1, 1900; National Archives Microfilm M-10, Roll 100.
+Web page
+Wikipedia contributors. "[https://en.wikipedia.org/wiki/George_Washington George Washington]." Wikipedia, The Free Encyclopedia. Accessed 1 Jan 2016.
+When citing a web page it's very important to include the full URL. In most web browsers this will appear in the address bar at the very top of your screen.
+
+Surrounding the URL with [brackets] makes it a link. For more about links on WikiTree, see Adding Links.
+
+Some web sites include source citations that you can copy-and-paste, e.g.:
+
+FamilySearch.org has a "Show citation" in the lower left corner that will generate a fine citation.
+If you're an Ancestry.com subscriber, looking at the image of a source, you can type "s", though these typically need editing as they contain too much information.
+Wikipedia has a "cite this page" link in the left column. Choose "Chicago style".
+Note that it's best to avoid links to sources on paid websites such as Ancestry.com in favor of free websites that anyone can access, such as FamilySearch. See Commercial Web Sites as Sources.
+
+Family bible
+[[Lorman-1|Whitten, Mary (Lorman)]]. [[Space:Whitten Family Bible|Whitten Family Bible]]. Date unknown. Currently in possession of [[Example-6|John Example]]. Includes names, birth, and death dates of family members from 1878 to 1946.
+If the source is a unique family heirloom or clipping, consider uploading a photo of it or create a free-space profile (more info).
+
+Cemetery headstone
+Evergreen Cemetery (New York, New York, USA). Joe and Jane Schmoe's headstone. Personally photographed by [[Example-6|John Example]], 2 Jun 2015.
+Be sure to include the location of the cemetery, who visited it, and when.
+
+If you have a photo of a headstone upload it to the individual's profile page. Do not upload a photo you found on another website without express permission from the photographer.
+
+Second-hand information
+Schmoe, Joe. Personal recollection, 3 Jun 2011, as told to [[Example-6|John Example]] via the phone. Notes in the possession of John Example.
+Often genealogical information is provided by other family members.
+
+It's a good idea to include who said certain information, and if you remember, when and where they said it. You may also want to include a link to the person's WikiTree profile page.
+
+First-hand information (yourself)
+[[Example-6|Example, John]]. Personal recollection, 5 Jul 2015.
+
+Advanced Sourcing
+Repeated use of the same source in the same profile
+Here's how to use the same source citation multiple times. The first time you use it, include a "name" inside the ref tag, like this:
+
+<ref name="birth certificate">Birth Certificate of George Russell Beebe, Registration 398-5554-428 (1920), Missouri Department of Health and Senior Services - Bureau of Vital Records, Personal copy in the files of [[Beebe-655|Barbara Beebe]]</ref>
+In all following references you can just use this:
+
+<ref name="birth certificate" />
+Done this way, all subsequent footnotes for this same source will point to the same footnote at the bottom of the page. Note that " in the "birth certificate" example above is a quotation mark, not two apostrophes.
+
+(Other methods for using the same source multiple times have been variously proposed and used. All methods other than the above are not recommended. See Alternative Sourcing Methods for more on this.)
+
+Repeated use of the same source in different profiles
+If you are using the same source on multiple profiles, especially if you have more information about the source than can comfortably fit in a traditional citation — such as multiple websites or repositories where it might be found — or you may want to collaborate with others who are using that source, you may want to create a free-space profile of it. See Profiles of Sources.
+
+(Note that "source templates" have been used by advanced members but are not recommended. External link templates have been approved. See Category:Source Templates and Alternative Sourcing Methods for more information.)
+
+
+↑ Lorine McGinnis Schulze, "Genealogy without Sources is Mythology," article on Olivetree.
+↑ Elizabeth Shown Mills, Evidence Explained: Citing History Sources from Artifacts to Cyberspace, Baltimore, MD: Genealogical Publishing Co.; 3rd edition (May 22, 2015). See also the author's blog by the same name: Evidence Explained.
+
+
 
